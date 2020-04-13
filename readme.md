@@ -1,10 +1,10 @@
 lazy loading image using javascript
 
 
-example done by incuding the js and css files in this package
+file the example below done by incuding the js and css files in this package
 
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 <head>
 	<title></title>
@@ -20,4 +20,4 @@ example done by incuding the js and css files in this package
 <script type="text/javascript" src="node_modules/js-img-lazyloading/script.js"> </script>
 	
 </body>
-</html>
+</html> -->
