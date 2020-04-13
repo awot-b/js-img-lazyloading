@@ -1,0 +1,23 @@
+{
+  "name": "js-img-lazyloading",
+  "version": "1.0.0",
+  "description": "js image lazy loading",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awot-b/js-img-lazyloading.git"
+  },
+  "keywords": [
+    "lazy-loading",
+    "image"
+  ],
+  "author": "awot-b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awot-b/js-img-lazyloading/issues"
+  },
+  "homepage": "https://github.com/awot-b/js-img-lazyloading#readme"
+}
